@@ -10,3 +10,5 @@ https://ds.iris.edu/files/sac-manual/commands/write.html
 http://man7.org/linux/man-pages/man1/od.1.html
 
 http://man7.org/linux/man-pages/man1/dd.1.html
+
+https://raw.githubusercontent.com/andreasplesch/segy-tools/master/segy_xy.svg
