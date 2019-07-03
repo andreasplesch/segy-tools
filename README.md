@@ -11,3 +11,6 @@ http://man7.org/linux/man-pages/man1/od.1.html
 
 http://man7.org/linux/man-pages/man1/dd.1.html
 
+# Plot example
+
+![image](https://user-images.githubusercontent.com/6171115/60623278-480b0f00-9db0-11e9-8424-8e9186267ee1.png)
