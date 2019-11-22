@@ -1,6 +1,5 @@
-# Untitled
+# SEG-Y Analyser
 
-https://observablehq.com/d/c0c035a64cbb6b72@1212
 
 View this notebook in your browser by running a web server in this folder. For
 example:
