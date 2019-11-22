@@ -1,0 +1,14 @@
+{
+  "name": "c0c035a64cbb6b72",
+  "main": "c0c035a64cbb6b72@1212.js",
+  "version": "1212.0.0",
+  "homepage": "https://observablehq.com/d/c0c035a64cbb6b72",
+  "author": {
+    "name": "Andreas Plesch",
+    "url": "https://observablehq.com/@andreasplesch"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
